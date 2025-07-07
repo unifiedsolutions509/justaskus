@@ -1,0 +1,37 @@
+*{
+  font-family: "Inter", sans-serif;
+  }
+  /* Footer Theme */
+.footer-bg {
+  background-color: #061c3d; /* Dark navy like your screenshot */
+}
+
+.footer-title {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #e74c3c;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.footer-bg a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-bg a:hover {
+  color: #ffb347;
+  text-decoration: underline;
+}
+
+.footer-bg .btn-outline-danger {
+  border-radius: 0;
+  border-color: #e74c3c;
+  color: #fff;
+  background-color: #e74c3c;
+}
+
+.footer-bg .btn-outline-danger:hover {
+  background-color: #c0392b;
+  border-color: #c0392b;
+}
