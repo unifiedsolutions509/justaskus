@@ -1,0 +1,64 @@
+{
+  "branches": [
+    {
+      "category": "Core Engineering",
+      "items": [
+        { "name": "Mechanical Engineering", "link": "#mechanical" },
+        { "name": "Civil Engineering", "link": "#civil" },
+        { "name": "Computer Science & Engineering (CSE)", "link": "#cse" },
+        { "name": "Electrical Engineering", "link": "#electrical" },
+        { "name": "Electronics & Communication (ECE)", "link": "#ece" },
+        { "name": "Chemical Engineering", "link": "#chemical" },
+        { "name": "Instrumentation Engineering", "link": "#instrumentation" },
+        { "name": "Marine Engineering", "link": "#marine" },
+        { "name": "Production Engineering", "link": "#production" }
+      ]
+    },
+    {
+      "category": "Emerging & Future-Ready",
+      "items": [
+        { "name": "Artificial Intelligence (AI)", "link": "#ai" },
+        { "name": "Machine Learning (ML)", "link": "#ml" },
+        { "name": "Data Science & Engineering", "link": "#datascience" },
+        { "name": "Internet of Things (IoT)", "link": "#iot" },
+        { "name": "Cyber Security", "link": "#cybersecurity" },
+        { "name": "Blockchain Technology", "link": "#blockchain" },
+        { "name": "Quantum Computing", "link": "#quantum" },
+        { "name": "Robotics & Automation", "link": "#robotics" }
+      ]
+    },
+    {
+      "category": "Interdisciplinary & Hybrid",
+      "items": [
+        { "name": "Mechatronics Engineering", "link": "#mechatronics" },
+        { "name": "Biomedical Engineering", "link": "#biomedical" },
+        { "name": "Environmental Engineering", "link": "#environmental" },
+        { "name": "Energy Engineering", "link": "#energy" },
+        { "name": "Biotechnology Engineering", "link": "#biotech" },
+        { "name": "Nanotechnology", "link": "#nanotech" },
+        { "name": "Food Technology", "link": "#foodtech" },
+        { "name": "Architecture (B.Arch)", "link": "#architecture" },
+        { "name": "Urban & Regional Planning", "link": "#urbanplanning" },
+        { "name": "Structural Engineering", "link": "#structural" },
+        { "name": "Construction Engineering & Mgmt", "link": "#construction" },
+        { "name": "Landscape Architecture", "link": "#landscape" },
+        { "name": "Design Engineering", "link": "#designeng" },
+        { "name": "Interior Design Engineering", "link": "#interior" }
+      ]
+    },
+    {
+      "category": "Specialized / Niche Areas",
+      "items": [
+        { "name": "Nuclear Engineering", "link": "#nuclear" },
+        { "name": "Plastics Engineering", "link": "#plastics" },
+        { "name": "Leather Technology", "link": "#leather" },
+        { "name": "Ceramic Engineering", "link": "#ceramic" },
+        { "name": "Marine Electronics", "link": "#marineelec" },
+        { "name": "Fire & Safety Engineering", "link": "#firesafety" },
+        { "name": "Oil & Gas Informatics", "link": "#oilgas" },
+        { "name": "Supply Chain Engineering", "link": "#supplychain" },
+        { "name": "Petrochemicals Engineering", "link": "#petrochem" }
+      ]
+    }
+  ]
+}

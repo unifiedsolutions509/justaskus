@@ -1,0 +1,54 @@
+{
+  "nits": [
+    {
+      "name": "NIT Trichy",
+      "location": "Tamil Nadu",
+      "url": "https://www.nitt.edu"
+    },
+    {
+      "name": "NIT Surathkal",
+      "location": "Karnataka",
+      "url": "https://www.nitk.ac.in"
+    },
+    {
+      "name": "NIT Warangal",
+      "location": "Telangana",
+      "url": "https://www.nitw.ac.in"
+    },
+    {
+      "name": "NIT Calicut",
+      "location": "Kerala",
+      "url": "https://www.nitc.ac.in"
+    },
+    {
+      "name": "NIT Rourkela",
+      "location": "Odisha",
+      "url": "https://www.nitrkl.ac.in"
+    },
+    {
+      "name": "MANIT Bhopal",
+      "location": "Madhya Pradesh",
+      "url": "https://www.manit.ac.in"
+    },
+    {
+      "name": "VNIT Nagpur",
+      "location": "Maharashtra",
+      "url": "https://vnit.ac.in"
+    },
+    {
+      "name": "MNNIT Allahabad",
+      "location": "Uttar Pradesh",
+      "url": "https://www.mnnit.ac.in"
+    },
+    {
+      "name": "MNIT Jaipur",
+      "location": "Rajasthan",
+      "url": "https://mnit.ac.in"
+    },
+    {
+      "name": "NIT Kurukshetra",
+      "location": "Haryana",
+      "url": "https://www.nitkkr.ac.in"
+    }
+  ]
+}

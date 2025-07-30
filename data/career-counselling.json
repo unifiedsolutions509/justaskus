@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Students",
+    "levels": [
+      {
+        "title": "Class 8 Explorer",
+        "description": "Beginner level career awareness and exploration."
+      },
+      {
+        "title": "Class 9 Visionaries",
+        "description": "Vision setting and interest identification."
+      },
+      {
+        "title": "Class 10 Planners",
+        "description": "Stream selection support with aptitude insights."
+      },
+      {
+        "title": "Class 11 Stream Seekers",
+        "description": "Deep dive into chosen stream and goal alignment."
+      },
+      {
+        "title": "Class 12 Goal Setters",
+        "description": "Focused guidance for entrance exams and careers."
+      }
+    ]
+  },
+  {
+    "category": "Graduates",
+    "levels": [
+      {
+        "title": "Undergraduates",
+        "description": "Support for internships, higher studies, and specialization."
+      },
+      {
+        "title": "Postgraduates",
+        "description": "Guidance for advanced studies, placements or entrepreneurship."
+      }
+    ]
+  },
+  {
+    "category": "Working Professionals",
+    "levels": [
+      {
+        "title": "Career Starters",
+        "description": "Guidance for first jobs and switching industries."
+      },
+      {
+        "title": "Career Growers",
+        "description": "Mentorship for upskilling and promotions."
+      },
+      {
+        "title": "Career Changers",
+        "description": "Strategies to shift careers with minimum friction."
+      }
+    ]
+  }
+]

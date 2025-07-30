@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Unified Solutions | Career Guidance</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+ <!-- Bootstrap 5 CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap 5 JS Bundle -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- ============================
+     Popular Colleges in India 
+===============================-->
+<section class="py-5 bg-light">
+  <div class="container">
+    <h3 class="text-center fw-bold mb-4">Popular Colleges in India</h3>
+
+    <!-- Main Tabs -->
+    <ul class="nav nav-tabs justify-content-center mb-4" id="collegeTabs" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="engineering-tab" data-bs-toggle="tab" data-bs-target="#engineering" type="button" role="tab" aria-controls="engineering" aria-selected="true">Engineering</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="medical-tab" data-bs-toggle="tab" data-bs-target="#medical" type="button" role="tab" aria-controls="medical" aria-selected="false">Medical</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="management-tab" data-bs-toggle="tab" data-bs-target="#management" type="button" role="tab" aria-controls="management" aria-selected="false">Management</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="commerce-tab" data-bs-toggle="tab" data-bs-target="#commerce" type="button" role="tab" aria-controls="commerce" aria-selected="false">Commerce</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="science-tab" data-bs-toggle="tab" data-bs-target="#science" type="button" role="tab" aria-controls="science" aria-selected="false">Science</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="research-tab" data-bs-toggle="tab" data-bs-target="#research" type="button" role="tab" aria-controls="research" aria-selected="false">Research</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="design-tab" data-bs-toggle="tab" data-bs-target="#design" type="button" role="tab" aria-controls="design" aria-selected="false">Design</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="it-tab" data-bs-toggle="tab" data-bs-target="#it" type="button" role="tab" aria-controls="it" aria-selected="false">IT & Computer</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="law-tab" data-bs-toggle="tab" data-bs-target="#law" type="button" role="tab" aria-controls="law" aria-selected="false">Law</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="architecture-tab" data-bs-toggle="tab" data-bs-target="#architecture" type="button" role="tab" aria-controls="architecture" aria-selected="false">Architecture</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="masscomm-tab" data-bs-toggle="tab" data-bs-target="#masscomm" type="button" role="tab" aria-controls="masscomm" aria-selected="false">Mass Communication</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="education-tab" data-bs-toggle="tab" data-bs-target="#education" type="button" role="tab" aria-controls="education" aria-selected="false">Education</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="hospitality-tab" data-bs-toggle="tab" data-bs-target="#hospitality" type="button" role="tab" aria-controls="hospitality" aria-selected="false">Hospitality</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="defense-tab" data-bs-toggle="tab" data-bs-target="#defense" type="button" role="tab" aria-controls="defense" aria-selected="false">Defense</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="agriculture-tab" data-bs-toggle="tab" data-bs-target="#agriculture" type="button" role="tab" aria-controls="agriculture" aria-selected="false">Agriculture</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="vocational-tab" data-bs-toggle="tab" data-bs-target="#vocational" type="button" role="tab" aria-controls="vocational" aria-selected="false">Vocational</button>
+      </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content" id="collegeTabsContent">
+      <!-- Engineering Content -->
+      <div class="tab-pane fade show active" id="engineering" role="tabpanel" aria-labelledby="engineering-tab">
+        <h4 class="text-center fw-semibold mb-3">Engineering: Explore Your Options</h4>
+          </div>
+<!-- Engineering Tab -->
+     <!-- Tab Navigation -->
+    <ul class="nav nav-pills justify-content-center mb-4" id="enggTabs" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="top-colleges-tab" data-bs-toggle="pill" data-bs-target="#engg-top-colleges" type="button" role="tab">Top Colleges</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="top-exams-tab" data-bs-toggle="pill" data-bs-target="#engg-top-exams" type="button" role="tab">Top Exams</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="specialized-streams-tab" data-bs-toggle="pill" data-bs-target="#engg-specialized-streams" type="button" role="tab">Exams for Specialized Streams</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="branches-tab" data-bs-toggle="pill" data-bs-target="#engg-branches" type="button" role="tab">Specializations / Branches</button>
+      </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content" id="enggTabsContent">
+
+      <!-- Tab 1: Top Colleges -->
+      <div class="tab-pane fade show active" id="engg-top-colleges" role="tabpanel">
+              <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                <div class="col">
+                  <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                      <h5 class="fw-bold">Nationally Ranked IITs</h5>
+                      <ul class="list-unstyled">
+                        <li><a href="#" target="_blank">IIT Bombay</a></li>
+                        <li><a href="#" target="_blank">IIT Madras</a></li>
+                        <li><a href="#" target="_blank">IIT Delhi</a></li>
+                        <li><a href="#" target="_blank">IIT Kanpur</a></li>
+                        <li><a href="#" target="_blank">IIT Kharagpur</a></li>
+                        <li><a href="#" target="_blank">IIT Roorkee</a></li>
+                        <li><a href="#" target="_blank">IIT Guwahati</a></li>
+                        <li><a href="#" target="_blank">IIT Hyderabad</a></li>
+                        <li><a href="#" target="_blank">IIT BHU Varanasi</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col">
+                  <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                      <h5 class="fw-bold">Top NITs</h5>
+                      <ul class="list-unstyled">
+                        <li><a href="#" target="_blank">NIT Trichy</a></li>
+                        <li><a href="#" target="_blank">NIT Surathkal</a></li>
+                        <li><a href="#" target="_blank">NIT Warangal</a></li>
+                        <li><a href="#" target="_blank">NIT Calicut</a></li>
+                        <li><a href="#" target="_blank">NIT Rourkela</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col">
+                  <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                      <h5 class="fw-bold">Popular IIITs</h5>
+                      <ul class="list-unstyled">
+                        <li><a href="#" target="_blank">IIIT Hyderabad</a></li>
+                        <li><a href="#" target="_blank">IIIT Delhi</a></li>
+                        <li><a href="#" target="_blank">IIIT Bangalore</a></li>
+                        <li><a href="#" target="_blank">IIIT Allahabad</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col">
+                  <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                      <h5 class="fw-bold">Top Govt Colleges</h5>
+                      <ul class="list-unstyled">
+                        <li><a href="#" target="_blank">Jadavpur University</a></li>
+                        <li><a href="#" target="_blank">Delhi Technological University (DTU)</a></li>
+                        <li><a href="#" target="_blank">Jamia Millia Islamia (JMI)</a></li>
+                        <li><a href="#" target="_blank">COEP Pune</a></li>
+                        <li><a href="#" target="_blank">NSUT Delhi</a></li>
+                        <li><a href="#" target="_blank">Punjab Engineering College (PEC)</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col">
+                  <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                      <h5 class="fw-bold">Private Tier-1 Colleges</h5>
+                      <ul class="list-unstyled">
+                        <li><a href="#" target="_blank">BITS Pilani / Goa / Hyderabad</a></li>
+                        <li><a href="#" target="_blank">VIT Vellore</a></li>
+                        <li><a href="#" target="_blank">SRM Institute of Science & Tech</a></li>
+                        <li><a href="#" target="_blank">Shiv Nadar University</a></li>
+                        <li><a href="#" target="_blank">MIT Manipal</a></li>
+                        <li><a href="#" target="_blank">Amity University</a></li>
+                        <li><a href="#" target="_blank">Ashoka University</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+      </div>
+
+ <!-- Tab 2: Top Exams -->
+<div class="tab-pane fade" id="top-exams" role="tabpanel">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-3">
+ <!-- Tab 2: Top Exams -->
+<div class="tab-pane fade" id="engg-top-exams" role="tabpanel">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-3">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">JEE Main</h6>
+          <p class="text-muted small mb-1">For NITs, IIITs, GFTIs</p>
+          <a href="#" class="text-primary small">Know More</a>
+ <!-- Tab 2: Top Exams -->
+<div class="tab-pane fade" id="engg-top-exams" role="tabpanel">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-3">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">JEE Advanced</h6>
+          <p class="text-muted small mb-1">For IITs</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- CUET UG -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">CUET UG</h6>
+          <p class="text-muted small mb-1">For Central Universities</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- BITSAT -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">BITSAT</h6>
+          <p class="text-muted small mb-1">For BITS Campuses</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- VITEEE -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">VITEEE</h6>
+          <p class="text-muted small mb-1">For VIT Vellore & Others</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- SRMJEEE -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">SRMJEEE</h6>
+          <p class="text-muted small mb-1">For SRM University</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- MET -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">MET</h6>
+          <p class="text-muted small mb-1">Manipal Entrance Test</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- COMEDK -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">COMEDK</h6>
+          <p class="text-muted small mb-1">Private Colleges (Karnataka)</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- WBJEE -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">WBJEE</h6>
+          <p class="text-muted small mb-1">West Bengal Colleges</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- MHT CET -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">MHT CET</h6>
+          <p class="text-muted small mb-1">Maharashtra State</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- KCET -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">KCET</h6>
+          <p class="text-muted small mb-1">Karnataka State</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- TNEA -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">TNEA</h6>
+          <p class="text-muted small mb-1">Tamil Nadu (No Exam)</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+    <!-- UPSEE -->
+    <div class="col">
+      <div class="card h-100 shadow-sm small-card">
+        <div class="card-body p-2">
+          <h6 class="card-title fw-bold small">UPSEE (CUET)</h6>
+          <p class="text-muted small mb-1">For UP Engineering</p>
+          <a href="#" class="text-primary small">Know More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <!-- Tab 3: Exams for Specialized Streams -->
+      <div class="tab-pane fade" id="specialized-streams" role="tabpanel">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-3">
+      <!-- Tab 3: Exams for Specialized Streams -->
+      <div class="tab-pane fade" id="engg-specialized-streams" role="tabpanel">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-3">
+              <div class="card-body p-2">
+                <h6 class="card-title fw-bold small">IIST Admission Test</h6>
+                <p class="text-muted small mb-1">Space Science & Aerospace</p>
+                <a href="#" class="text-primary small">Know More</a>
+              </div>
+            </div>
+          </div>
+      <!-- Tab 3: Exams for Specialized Streams -->
+      <div class="tab-pane fade" id="engg-specialized-streams" role="tabpanel">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-3">
+                <p class="text-muted small mb-1">Agriculture Engineering</p>
+                <a href="#" class="text-primary small">Know More</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- UPESEAT -->
+          <div class="col">
+            <div class="card h-100 shadow-sm small-card">
+              <div class="card-body p-2">
+                <h6 class="card-title fw-bold small">UPESEAT</h6>
+                <p class="text-muted small mb-1">Petroleum & Energy Engg.</p>
+                <a href="#" class="text-primary small">Know More</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- NATA -->
+          <div class="col">
+            <div class="card h-100 shadow-sm small-card">
+              <div class="card-body p-2">
+                <h6 class="card-title fw-bold small">NATA</h6>
+                <p class="text-muted small mb-1">For Architecture</p>
+                <a href="#" class="text-primary small">Know More</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab 4: Specializations / Branches -->
+     <!-- Tab 4: Specializations / Branches -->
+<div class="tab-pane fade" id="branches" role="tabpanel">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+     <!-- Tab 4: Specializations / Branches -->
+<div class="tab-pane fade" id="engg-branches" role="tabpanel">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      <div class="card h-100 shadow-sm">
+        <div class="card-body">
+          <h5 class="fw-bold">Core Engineering Branches</h5>
+          <ul class="list-unstyled">
+            <li><a href="#">Mechanical Engineering</a></li>
+            <li><a href="#">Civil Engineering</a></li>
+            <li><a href="#">Computer Science & Engineering (CSE)</a></li>
+            <li><a href="#">Electrical Engineering</a></li>
+            <li><a href="#">Electronics & Communication (ECE)</a></li>
+      <!-- Tab 4: Specializations / Branches -->
+<div class="tab-pane fade" id="engg-branches" role="tabpanel">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    </div>
+
+    <!-- Emerging & Future-Ready -->
+    <div class="col">
+      <div class="card h-100 shadow-sm">
+        <div class="card-body">
+          <h5 class="fw-bold">Emerging & Future-Ready</h5>
+          <ul class="list-unstyled">
+            <li><a href="#">Artificial Intelligence (AI)</a></li>
+            <li><a href="#">Machine Learning (ML)</a></li>
+            <li><a href="#">Data Science & Engineering</a></li>
+            <li><a href="#">Internet of Things (IoT)</a></li>
+            <li><a href="#">Cyber Security</a></li>
+            <li><a href="#">Blockchain Technology</a></li>
+            <li><a href="#">Quantum Computing</a></li>
+            <li><a href="#">Robotics & Automation</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Interdisciplinary & Hybrid -->
+    <div class="col">
+      <div class="card h-100 shadow-sm">
+        <div class="card-body">
+          <h5 class="fw-bold">Interdisciplinary & Hybrid</h5>
+          <ul class="list-unstyled">
+            <li><a href="#">Mechatronics Engineering</a></li>
+            <li><a href="#">Biomedical Engineering</a></li>
+            <li><a href="#">Environmental Engineering</a></li>
+            <li><a href="#">Energy Engineering</a></li>
+            <li><a href="#">Biotechnology Engineering</a></li>
+            <li><a href="#">Nanotechnology</a></li>
+            <li><a href="#">Food Technology</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Architecture & Planning -->
+    <div class="col">
+      <div class="card h-100 shadow-sm">
+        <div class="card-body">
+          <h5 class="fw-bold">Architecture & Planning</h5>
+          <ul class="list-unstyled">
+            <li><a href="#">Architecture (B.Arch)</a></li>
+            <li><a href="#">Urban & Regional Planning</a></li>
+            <li><a href="#">Structural Engineering</a></li>
+            <li><a href="#">Construction Engineering & Mgmt</a></li>
+            <li><a href="#">Landscape Architecture</a></li>
+            <li><a href="#">Design Engineering</a></li>
+            <li><a href="#">Interior Design Engineering</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Specialized / Niche Areas -->
+    <div class="col">
+      <div class="card h-100 shadow-sm">
+        <div class="card-body">
+          <h5 class="fw-bold">Specialized / Niche Areas</h5>
+          <ul class="list-unstyled">
+            <li><a href="#">Nuclear Engineering</a></li>
+            <li><a href="#">Plastics Engineering</a></li>
+            <li><a href="#">Leather Technology</a></li>
+            <li><a href="#">Ceramic Engineering</a></li>
+            <li><a href="#">Marine Electronics</a></li>
+            <li><a href="#">Fire & Safety Engineering</a></li>
+            <li><a href="#">Oil & Gas Informatics</a></li>
+            <li><a href="#">Supply Chain Engineering</a></li>
+            <li><a href="#">Petrochemicals Engineering</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+      <!-- Medical Content -->
+      <div class="tab-pane fade" id="medical" role="tabpanel" aria-labelledby="medical-tab">
+        <h4 class="text-center fw-semibold mb-3">Medical: Explore Your Options</h4>
+        <!-- Sub-tabs inside Medical -->
+        <ul class="nav nav-pills justify-content-center mb-3" id="medicalSubTabs" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="med-colleges-tab" data-bs-toggle="pill" data-bs-target="#med-colleges" type="button" role="tab">Top Colleges</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="med-exams-tab" data-bs-toggle="pill" data-bs-target="#med-exams" type="button" role="tab">Top Exams</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="med-branches-tab" data-bs-toggle="pill" data-bs-target="#med-branches" type="button" role="tab">Top Branches</button>
+          </li>
+        </ul>
+    <!-- Tab Content -->
+    <div class="tab-content" id="medicalTabsContent">
+      <!-- Top Colleges -->
+      <div class="tab-pane fade show active" id="med-colleges" role="tabpanel">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+          <div class="col">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+                <h5 class="fw-bold">Top Govt. Medical Colleges</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">AIIMS Delhi</a></li>
+                  <li><a href="#">JIPMER Puducherry</a></li>
+                  <li><a href="#">AFMC Pune</a></li>
+                  <li><a href="#">MAMC Delhi</a></li>
+                  <li><a href="#">KGMU Lucknow</a></li>
+                  <li><a href="#">BHU Varanasi</a></li>
+                  <li><a href="#">Madras Medical College</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+                <h5 class="fw-bold">Top Private Medical Colleges</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">CMC Vellore</a></li>
+                  <li><a href="#">KMC Manipal</a></li>
+                  <li><a href="#">St. John’s Bangalore</a></li>
+                  <li><a href="#">Amrita School of Medicine</a></li>
+                  <li><a href="#">DY Patil Medical Pune</a></li>
+                  <li><a href="#">SRM Chennai</a></li>
+                  <li><a href="#">KIMS Bhubaneswar</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Top Exams -->
+      <div class="tab-pane fade" id="med-exams" role="tabpanel">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
+          <div class="col">
+            <div class="card h-100 shadow-sm small-card">
+              <div class="card-body p-2">
+                <h6 class="fw-bold">NEET UG</h6>
+                <p class="text-muted small">For MBBS, BDS, AYUSH</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100 shadow-sm small-card">
+              <div class="card-body p-2">
+                <h6 class="fw-bold">NEET PG</h6>
+                <p class="text-muted small">For MD/MS/DNB</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100 shadow-sm small-card">
+              <div class="card-body p-2">
+                <h6 class="fw-bold">INI-CET</h6>
+                <p class="text-muted small">AIIMS/JIPMER/PGIMER/NIMHANS</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card h-100 shadow-sm small-card">
+              <div class="card-body p-2">
+                <h6 class="fw-bold">NEET SS</h6>
+                <p class="text-muted small">For DM/MCh</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Specializations / Branches -->
+      <div class="tab-pane fade" id="med-branches" role="tabpanel">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+
+          <div class="col">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+                <h5 class="fw-bold">UG Courses</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">MBBS</a></li>
+                  <li><a href="#">BDS</a></li>
+                  <li><a href="#">BAMS</a></li>
+                  <li><a href="#">BHMS</a></li>
+                  <li><a href="#">BUMS</a></li>
+                  <li><a href="#">B.Sc Nursing</a></li>
+                  <li><a href="#">BPT (Physiotherapy)</a></li>
+                  <li><a href="#">BNYS</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+                <h5 class="fw-bold">PG Medical (MD/MS)</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">MD - General Medicine, Radiology, etc.</a></li>
+                  <li><a href="#">MS - Surgery, ENT, Orthopaedics</a></li>
+                  <li><a href="#">DNB/PG Diplomas</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+                <h5 class="fw-bold">Super-Specialty (DM/MCh)</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">DM - Cardiology, Neurology</a></li>
+                  <li><a href="#">MCh - Neurosurgery, Urology</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+                <h5 class="fw-bold">Allied Health & Para-Medical</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">Medical Lab Technology</a></li>
+                  <li><a href="#">Radiology / Imaging</a></li>
+                  <li><a href="#">Operation Theatre Technology</a></li>
+                  <li><a href="#">Dialysis / Optometry</a></li>
+                  <li><a href="#">Emergency & Trauma Care</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+  <script>
+    // Example: If you want to enable tab switching for vocational tabs, use this:
+    document.addEventListener("DOMContentLoaded", function () {
+      var triggerTabList = [].slice.call(document.querySelectorAll('#vocTabs button'));
+      triggerTabList.forEach(function (triggerEl) {
+        var tabTrigger = new bootstrap.Tab(triggerEl);
+        triggerEl.addEventListener('click', function (event) {
+          event.preventDefault();
+          tabTrigger.show();
+        });
+      });
+    });
+  </script>
+  
+  <!-- Bootstrap Bundle JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

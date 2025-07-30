@@ -1,0 +1,184 @@
+{
+  "topColleges": [
+    {
+      "category": "Nationally Ranked IITs",
+      "colleges": [
+        "IIT Bombay",
+        "IIT Madras",
+        "IIT Delhi",
+        "IIT Kanpur",
+        "IIT Kharagpur",
+        "IIT Roorkee",
+        "IIT Guwahati",
+        "IIT Hyderabad",
+        "IIT BHU Varanasi"
+      ]
+    },
+    {
+      "category": "Top NITs",
+      "colleges": [
+        "NIT Trichy",
+        "NIT Surathkal",
+        "NIT Warangal",
+        "NIT Calicut",
+        "NIT Rourkela"
+      ]
+    },
+    {
+      "category": "Popular IIITs",
+      "colleges": [
+        "IIIT Hyderabad",
+        "IIIT Delhi",
+        "IIIT Bangalore",
+        "IIIT Allahabad"
+      ]
+    },
+    {
+      "category": "Top Govt Colleges",
+      "colleges": [
+        "Jadavpur University",
+        "Delhi Technological University (DTU)",
+        "Jamia Millia Islamia (JMI)",
+        "COEP Pune",
+        "NSUT Delhi",
+        "Punjab Engineering College (PEC)"
+      ]
+    },
+    {
+      "category": "Private Tier-1 Colleges",
+      "colleges": [
+        "BITS Pilani / Goa / Hyderabad",
+        "VIT Vellore",
+        "SRM Institute of Science & Tech",
+        "Shiv Nadar University",
+        "MIT Manipal",
+        "Amity University",
+        "Ashoka University"
+      ]
+    }
+  ],
+  "topExams": [
+    {
+      "name": "JEE Main",
+      "note": "For NITs, IIITs, GFTIs"
+    },
+    {
+      "name": "JEE Advanced",
+      "note": "For IITs"
+    },
+    {
+      "name": "CUET UG",
+      "note": "For Central Universities"
+    },
+    {
+      "name": "BITSAT",
+      "note": "For BITS Campuses"
+    },
+    {
+      "name": "VITEEE",
+      "note": "For VIT Vellore & Others"
+    },
+    {
+      "name": "SRMJEEE",
+      "note": "For SRM University"
+    },
+    {
+      "name": "MET",
+      "note": "Manipal Entrance Test"
+    },
+    {
+      "name": "COMEDK",
+      "note": "Private Colleges (Karnataka)"
+    },
+    {
+      "name": "WBJEE",
+      "note": "West Bengal Colleges"
+    },
+    {
+      "name": "MHT CET",
+      "note": "Maharashtra State"
+    },
+    {
+      "name": "KCET",
+      "note": "Karnataka State"
+    },
+    {
+      "name": "TNEA",
+      "note": "Tamil Nadu (No Exam)"
+    },
+    {
+      "name": "UPSEE (CUET)",
+      "note": "For UP Engineering"
+    }
+  ],
+  "specializedExams": [
+    {
+      "name": "IIST Admission Test",
+      "note": "Space Science & Aerospace"
+    },
+    {
+      "name": "ICAR AIEEA",
+      "note": "Agriculture Engineering"
+    },
+    {
+      "name": "UPESEAT",
+      "note": "Petroleum & Energy Engg."
+    },
+    {
+      "name": "NATA",
+      "note": "For Architecture"
+    }
+  ],
+  "branches": {
+    "core": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Computer Science & Engineering (CSE)",
+      "Electrical Engineering",
+      "Electronics & Communication (ECE)",
+      "Chemical Engineering",
+      "Instrumentation Engineering",
+      "Marine Engineering",
+      "Production Engineering"
+    ],
+    "emerging": [
+      "Artificial Intelligence (AI)",
+      "Machine Learning (ML)",
+      "Data Science & Engineering",
+      "Internet of Things (IoT)",
+      "Cyber Security",
+      "Blockchain Technology",
+      "Quantum Computing",
+      "Robotics & Automation"
+    ],
+    "interdisciplinary": [
+      "Mechatronics Engineering",
+      "Biomedical Engineering",
+      "Environmental Engineering",
+      "Energy Engineering",
+      "Biotechnology Engineering",
+      "Nanotechnology",
+      "Food Technology"
+    ],
+    "architecture": [
+      "Architecture (B.Arch)",
+      "Urban & Regional Planning",
+      "Structural Engineering",
+      "Construction Engineering & Mgmt",
+      "Landscape Architecture",
+      "Design Engineering",
+      "Interior Design Engineering"
+    ],
+    "specialized": [
+      "Nuclear Engineering",
+      "Plastics Engineering",
+      "Leather Technology",
+      "Ceramic Engineering",
+      "Marine Electronics",
+      "Fire & Safety Engineering",
+      "Oil & Gas Informatics",
+      "Supply Chain Engineering",
+      "Petrochemicals Engineering"
+    ]
+  }
+}
