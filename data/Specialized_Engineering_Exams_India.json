@@ -1,0 +1,114 @@
+[
+  {
+    "Exam Name":"IIST Admission Test",
+    "Full Form":"Indian Institute of Space Science and Technology Admission Test",
+    "Specialization \/ Stream":"Aerospace Engineering, Space Science",
+    "Conducted By":"IIST (Under ISRO)",
+    "Website":"https:\/\/www.iist.ac.in"
+  },
+  {
+    "Exam Name":"ISRO Scientist Exam",
+    "Full Form":"ISRO Centralized Recruitment Board (ICRB)",
+    "Specialization \/ Stream":"Research Scientist \/ Engineer in Space, Avionics, Computers",
+    "Conducted By":"ISRO",
+    "Website":"https:\/\/www.isro.gov.in"
+  },
+  {
+    "Exam Name":"NEST",
+    "Full Form":"National Entrance Screening Test",
+    "Specialization \/ Stream":"Integrated Science Programs (Physics, IT, Math focus)",
+    "Conducted By":"NISER + UM-DAE CEBS",
+    "Website":"https:\/\/www.nestexam.in"
+  },
+  {
+    "Exam Name":"ICAR AIEEA UG",
+    "Full Form":"Indian Council of Agricultural Research \u2013 All India Entrance Exam",
+    "Specialization \/ Stream":"Agricultural Engineering, Bioinformatics",
+    "Conducted By":"ICAR",
+    "Website":"https:\/\/icar.nta.nic.in"
+  },
+  {
+    "Exam Name":"IIITH UGEE\/SAT",
+    "Full Form":"IIIT Hyderabad UG Entrance Exams",
+    "Specialization \/ Stream":"Research-based CS, AI\/ML, Computational Natural Sciences",
+    "Conducted By":"IIIT-H",
+    "Website":"https:\/\/www.iiit.ac.in"
+  },
+  {
+    "Exam Name":"IISc KVPY \/ JAM \/ JEE",
+    "Full Form":"Indian Institute of Science Admissions",
+    "Specialization \/ Stream":"BS (Research), Data Science, Computational Sciences",
+    "Conducted By":"IISc Bangalore",
+    "Website":"https:\/\/www.iisc.ac.in"
+  },
+  {
+    "Exam Name":"CEED \/ UCEED",
+    "Full Form":"Common Entrance Exam for Design",
+    "Specialization \/ Stream":"Design & Human-Centered Engineering (UX, UI, HCI)",
+    "Conducted By":"IIT Bombay",
+    "Website":"https:\/\/www.uceed.iitb.ac.in"
+  },
+  {
+    "Exam Name":"NTSE \/ NSEJS \/ INMO \/ Olympiads",
+    "Full Form":"National Science \/ Junior Science \/ Math Olympiads",
+    "Specialization \/ Stream":"Talent-based entry to elite research and science\/tech programs",
+    "Conducted By":"HBCSE \/ TIFR",
+    "Website":"https:\/\/olympiads.hbcse.tifr.res.in"
+  },
+  {
+    "Exam Name":"JMI BTech (via JEE)",
+    "Full Form":"Jamia Millia Islamia BTech",
+    "Specialization \/ Stream":"CS, EE, ME (JEE-Based)",
+    "Conducted By":"JMI",
+    "Website":"https:\/\/www.jmi.ac.in"
+  },
+  {
+    "Exam Name":"IPU CET (Biotech B.Tech)",
+    "Full Form":"Guru Gobind Singh Indraprastha University Entrance Test",
+    "Specialization \/ Stream":"Biotechnology, Biochemical Engineering",
+    "Conducted By":"IPU Delhi",
+    "Website":"https:\/\/www.ipu.ac.in"
+  },
+  {
+    "Exam Name":"LNMIIT Admission",
+    "Full Form":"Laxmi Niwas Mittal Institute of Information Technology",
+    "Specialization \/ Stream":"CS, Communication, and IT",
+    "Conducted By":"LNMIIT Jaipur (via JEE or Direct)",
+    "Website":"https:\/\/www.lnmiit.ac.in"
+  },
+  {
+    "Exam Name":"Ashoka Aptitude Test",
+    "Full Form":"Ashoka University",
+    "Specialization \/ Stream":"Interdisciplinary Sciences with Engineering",
+    "Conducted By":"Ashoka University",
+    "Website":"https:\/\/www.ashoka.edu.in"
+  },
+  {
+    "Exam Name":"DAIICT Admission",
+    "Full Form":"Dhirubhai Ambani Institute of Information & Communication Technology",
+    "Specialization \/ Stream":"CS, IT, Data Science",
+    "Conducted By":"GUJCET \/ JEE Channel",
+    "Website":"https:\/\/www.daiict.ac.in"
+  },
+  {
+    "Exam Name":"IIIT-D Admission",
+    "Full Form":"Indraprastha Institute of Information Technology Delhi",
+    "Specialization \/ Stream":"CS, AI, IT, CSE with Social Sciences",
+    "Conducted By":"JEE + Bonus for Olympiad",
+    "Website":"https:\/\/www.iiitd.ac.in"
+  },
+  {
+    "Exam Name":"TIFR GS",
+    "Full Form":"Tata Institute of Fundamental Research Graduate School",
+    "Specialization \/ Stream":"Theoretical CS, Mathematics, Interdisciplinary Tech",
+    "Conducted By":"TIFR",
+    "Website":"https:\/\/univ.tifr.res.in"
+  },
+  {
+    "Exam Name":"ACTREC \/ BARC \/ DRDO JRF",
+    "Full Form":"Research Fellowships for Engineering",
+    "Specialization \/ Stream":"Bioinformatics, Computational Engineering",
+    "Conducted By":"Various DRDO\/DAE Units",
+    "Website":"https:\/\/www.barc.gov.in"
+  }
+]

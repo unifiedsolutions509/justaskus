@@ -1,0 +1,86 @@
+[
+  {
+    "Exam": "MHT CET",
+    "State": "Maharashtra",
+    "Purpose": "Engineering, Pharmacy, etc.",
+    "Next Exam Date": "May 2025 (Tentative)",
+    "Link": "https://cetcell.mahacet.org/"
+  },
+  {
+    "Exam": "WBJEE",
+    "State": "West Bengal",
+    "Purpose": "Engineering and Pharmacy courses",
+    "Next Exam Date": "April 2025 (Tentative)",
+    "Link": "https://wbjeeb.nic.in/"
+  },
+  {
+    "Exam": "COMEDK UGET",
+    "State": "Karnataka (Private Colleges)",
+    "Purpose": "Admission to private engineering colleges in Karnataka",
+    "Next Exam Date": "May 2025 (Tentative)",
+    "Link": "https://www.comedk.org/"
+  },
+  {
+    "Exam": "KCET",
+    "State": "Karnataka",
+    "Purpose": "Engineering, pharmacy, and other courses",
+    "Next Exam Date": "April 2025 (Tentative)",
+    "Link": "https://cetonline.karnataka.gov.in/kea/"
+  },
+  {
+    "Exam": "AP EAMCET",
+    "State": "Andhra Pradesh",
+    "Purpose": "Engineering, agriculture, and medical",
+    "Next Exam Date": "May 2025 (Tentative)",
+    "Link": "https://cets.apsche.ap.gov.in/"
+  },
+  {
+    "Exam": "TS EAMCET",
+    "State": "Telangana",
+    "Purpose": "Engineering, agriculture, and medical",
+    "Next Exam Date": "May 2025 (Tentative)",
+    "Link": "https://eamcet.tsche.ac.in/"
+  },
+  {
+    "Exam": "KEAM",
+    "State": "Kerala",
+    "Purpose": "Engineering and medical courses",
+    "Next Exam Date": "May 2025 (Tentative)",
+    "Link": "https://cee.kerala.gov.in/"
+  },
+  {
+    "Exam": "GUJCET",
+    "State": "Gujarat",
+    "Purpose": "Engineering, pharmacy admissions",
+    "Next Exam Date": "April 2025 (Tentative)",
+    "Link": "https://gujcet.gseb.org/"
+  },
+  {
+    "Exam": "UKSEE",
+    "State": "Uttarakhand",
+    "Purpose": "Engineering and technical courses",
+    "Next Exam Date": "June 2025 (Expected)",
+    "Link": "https://uktech.ac.in/"
+  },
+  {
+    "Exam": "BCECE",
+    "State": "Bihar",
+    "Purpose": "Engineering and paramedical courses",
+    "Next Exam Date": "July 2025 (Tentative)",
+    "Link": "https://bceceboard.bihar.gov.in/"
+  },
+  {
+    "Exam": "Jharkhand Engineering Entrance",
+    "State": "Jharkhand",
+    "Purpose": "State-level engineering admissions",
+    "Next Exam Date": "May 2025 (Tentative)",
+    "Link": "https://jceceb.jharkhand.gov.in/"
+  },
+  {
+    "Exam": "HSTES",
+    "State": "Haryana",
+    "Purpose": "Centralized admission based on JEE Main",
+    "Next Exam Date": "No Separate Exam",
+    "Link": "https://hstes.org.in/"
+  }
+]

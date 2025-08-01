@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IIST Admission Test",
+    "description": "Space Science & Aerospace",
+    "link": "https://www.iist.ac.in/admissions"
+  },
+  {
+    "name": "ICAR AIEEA",
+    "description": "Agriculture Engineering",
+    "link": "https://icar.nta.nic.in/"
+  },
+  {
+    "name": "UPESEAT",
+    "description": "Petroleum & Energy Engg.",
+    "link": "https://www.upes.ac.in/upeseat"
+  },
+  {
+    "name": "NATA",
+    "description": "For Architecture",
+    "link": "https://www.nata.in/"
+  }
+]

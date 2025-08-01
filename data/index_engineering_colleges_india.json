@@ -1,0 +1,151 @@
+[
+    {
+        "category": "Nationally Ranked IITs",
+        "colleges": [
+            {
+                "name": "IIT Bombay",
+                "link": "https://www.iitb.ac.in"
+            },
+            {
+                "name": "IIT Madras",
+                "link": "https://www.iitm.ac.in"
+            },
+            {
+                "name": "IIT Delhi",
+                "link": "https://home.iitd.ac.in"
+            },
+            {
+                "name": "IIT Kanpur",
+                "link": "https://www.iitk.ac.in"
+            },
+            {
+                "name": "IIT Kharagpur",
+                "link": "https://www.iitkgp.ac.in"
+            },
+            {
+                "name": "IIT Roorkee",
+                "link": "https://www.iitr.ac.in"
+            },
+            {
+                "name": "IIT Guwahati",
+                "link": "https://www.iitg.ac.in"
+            },
+            {
+                "name": "IIT Hyderabad",
+                "link": "https://www.iith.ac.in"
+            },
+            {
+                "name": "IIT BHU Varanasi",
+                "link": "https://www.iitbhu.ac.in"
+            }
+        ]
+    },
+    {
+        "category": "Top NITs",
+        "colleges": [
+            {
+                "name": "NIT Trichy",
+                "link": "https://www.nitt.edu"
+            },
+            {
+                "name": "NIT Surathkal",
+                "link": "https://www.nitk.ac.in"
+            },
+            {
+                "name": "NIT Warangal",
+                "link": "https://www.nitw.ac.in"
+            },
+            {
+                "name": "NIT Calicut",
+                "link": "https://www.nitc.ac.in"
+            },
+            {
+                "name": "NIT Rourkela",
+                "link": "https://www.nitrkl.ac.in"
+            }
+        ]
+    },
+    {
+        "category": "Popular IIITs",
+        "colleges": [
+            {
+                "name": "IIIT Hyderabad",
+                "link": "https://www.iiit.ac.in"
+            },
+            {
+                "name": "IIIT Delhi",
+                "link": "https://www.iiitd.ac.in"
+            },
+            {
+                "name": "IIIT Bangalore",
+                "link": "https://www.iiitb.ac.in"
+            },
+            {
+                "name": "IIIT Allahabad",
+                "link": "https://www.iiita.ac.in"
+            }
+        ]
+    },
+    {
+        "category": "Top Govt Colleges",
+        "colleges": [
+            {
+                "name": "Jadavpur University",
+                "link": "http://www.jaduniv.edu.in"
+            },
+            {
+                "name": "DTU",
+                "link": "http://www.dtu.ac.in"
+            },
+            {
+                "name": "JMI",
+                "link": "http://www.jmi.ac.in"
+            },
+            {
+                "name": "COEP Pune",
+                "link": "http://www.coep.org.in"
+            },
+            {
+                "name": "NSUT Delhi",
+                "link": "http://www.nsut.ac.in"
+            },
+            {
+                "name": "PEC",
+                "link": "https://pec.ac.in"
+            }
+        ]
+    },
+    {
+        "category": "Private Tier-1 Colleges",
+        "colleges": [
+            {
+                "name": "BITS Pilani / Goa / Hyderabad",
+                "link": "https://www.bits-pilani.ac.in"
+            },
+            {
+                "name": "VIT Vellore",
+                "link": "https://vit.ac.in"
+            },
+            {
+                "name": "SRM IST",
+                "link": "https://www.srmist.edu.in"
+            },
+            {
+                "name": "Shiv Nadar University",
+                "link": "https://www.snu.edu.in"
+            },
+            {
+                "name": "MIT Manipal",
+                "link": "https://manipal.edu/mit.html"
+            },
+            {
+                "name": "Amity University",
+                "link": "https://www.amity.edu"
+            },
+            {
+                "name": "Ashoka University",
+                "link": "https://www.ashoka.edu.in"
+            }
+        ]
+    }
+]

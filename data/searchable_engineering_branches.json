@@ -1,0 +1,52 @@
+{
+  "Core Engineering Branches": [
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Computer Science & Engineering (CSE)",
+    "Electrical Engineering",
+    "Electronics & Communication (ECE)",
+    "Chemical Engineering",
+    "Instrumentation Engineering",
+    "Marine Engineering",
+    "Production Engineering"
+  ],
+  "Emerging & Future-Ready": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Data Science & Engineering",
+    "Internet of Things (IoT)",
+    "Cyber Security",
+    "Blockchain Technology",
+    "Quantum Computing",
+    "Robotics & Automation"
+  ],
+  "Interdisciplinary & Hybrid": [
+    "Mechatronics Engineering",
+    "Biomedical Engineering",
+    "Environmental Engineering",
+    "Energy Engineering",
+    "Biotechnology Engineering",
+    "Nanotechnology",
+    "Food Technology"
+  ],
+  "Architecture & Planning": [
+    "Architecture (B.Arch)",
+    "Urban & Regional Planning",
+    "Structural Engineering",
+    "Construction Engineering & Mgmt",
+    "Landscape Architecture",
+    "Design Engineering",
+    "Interior Design Engineering"
+  ],
+  "Specialized / Niche Areas": [
+    "Nuclear Engineering",
+    "Plastics Engineering",
+    "Leather Technology",
+    "Ceramic Engineering",
+    "Marine Electronics",
+    "Fire & Safety Engineering",
+    "Oil & Gas Informatics",
+    "Supply Chain Engineering",
+    "Petrochemicals Engineering"
+  ]
+}

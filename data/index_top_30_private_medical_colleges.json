@@ -1,0 +1,212 @@
+[
+  {
+    "rank":1,
+    "name":"Christian Medical College (CMC)",
+    "location":"Vellore, Tamil Nadu",
+    "fee":"1,50,000",
+    "link":"https:\/\/www.cmch-vellore.edu\/"
+  },
+  {
+    "rank":2,
+    "name":"Kasturba Medical College (KMC)",
+    "location":"Manipal, Karnataka",
+    "fee":"14,40,000",
+    "link":"https:\/\/manipal.edu\/kmc-manipal.html"
+  },
+  {
+    "rank":3,
+    "name":"Sri Ramachandra Medical College",
+    "location":"Chennai, Tamil Nadu",
+    "fee":"22,00,000",
+    "link":"https:\/\/www.sriramachandra.edu.in\/"
+  },
+  {
+    "rank":4,
+    "name":"JSS Medical College",
+    "location":"Mysuru, Karnataka",
+    "fee":"17,00,000",
+    "link":"https:\/\/jssuni.edu.in\/"
+  },
+  {
+    "rank":5,
+    "name":"Amrita Institute of Medical Sciences",
+    "location":"Kochi, Kerala",
+    "fee":"18,00,000",
+    "link":"https:\/\/www.amrita.edu\/campus\/kochi"
+  },
+  {
+    "rank":6,
+    "name":"SRM Medical College",
+    "location":"Chennai, Tamil Nadu",
+    "fee":"22,50,000",
+    "link":"https:\/\/www.srmist.edu.in\/"
+  },
+  {
+    "rank":7,
+    "name":"Kalinga Institute of Medical Sciences",
+    "location":"Bhubaneswar, Odisha",
+    "fee":"17,00,000",
+    "link":"https:\/\/kims.kiit.ac.in\/"
+  },
+  {
+    "rank":8,
+    "name":"KS Hegde Medical Academy",
+    "location":"Mangalore, Karnataka",
+    "fee":"15,00,000",
+    "link":"https:\/\/nitte.edu.in\/kshema.php"
+  },
+  {
+    "rank":9,
+    "name":"MGM Medical College",
+    "location":"Navi Mumbai, Maharashtra",
+    "fee":"18,50,000",
+    "link":"https:\/\/www.mgmuhs.com\/"
+  },
+  {
+    "rank":10,
+    "name":"Dr. D. Y. Patil Medical College",
+    "location":"Pune, Maharashtra",
+    "fee":"25,00,000",
+    "link":"https:\/\/medical.dpu.edu.in\/"
+  },
+  {
+    "rank":11,
+    "name":"Bharati Vidyapeeth Medical College",
+    "location":"Pune, Maharashtra",
+    "fee":"20,00,000",
+    "link":"https:\/\/mcpune.bharatividyapeeth.edu\/"
+  },
+  {
+    "rank":12,
+    "name":"Siksha \u2018O\u2019 Anusandhan Institute of Medical Sciences",
+    "location":"Bhubaneswar, Odisha",
+    "fee":"19,00,000",
+    "link":"https:\/\/www.soa.ac.in\/ims-sum-hospital"
+  },
+  {
+    "rank":13,
+    "name":"Meenakshi Medical College",
+    "location":"Kanchipuram, Tamil Nadu",
+    "fee":"22,00,000",
+    "link":"https:\/\/maher.ac.in\/"
+  },
+  {
+    "rank":14,
+    "name":"Saveetha Medical College",
+    "location":"Chennai, Tamil Nadu",
+    "fee":"23,00,000",
+    "link":"https:\/\/www.saveetha.com\/"
+  },
+  {
+    "rank":15,
+    "name":"Hamdard Institute of Medical Sciences",
+    "location":"New Delhi",
+    "fee":"12,00,000",
+    "link":"http:\/\/jamiahamdard.edu\/"
+  },
+  {
+    "rank":16,
+    "name":"SRMC & RI",
+    "location":"Chennai, Tamil Nadu",
+    "fee":"20,00,000",
+    "link":"https:\/\/www.sriramachandra.edu.in\/"
+  },
+  {
+    "rank":17,
+    "name":"Chettinad Hospital and Research Institute",
+    "location":"Kelambakkam, Tamil Nadu",
+    "fee":"20,00,000",
+    "link":"https:\/\/care.edu.in\/"
+  },
+  {
+    "rank":18,
+    "name":"Dayanand Medical College",
+    "location":"Ludhiana, Punjab",
+    "fee":"19,00,000",
+    "link":"https:\/\/dmch.edu\/"
+  },
+  {
+    "rank":19,
+    "name":"Himalayan Institute of Medical Sciences",
+    "location":"Dehradun, Uttarakhand",
+    "fee":"18,00,000",
+    "link":"https:\/\/srhu.edu.in\/"
+  },
+  {
+    "rank":20,
+    "name":"Teerthanker Mahaveer Medical College",
+    "location":"Moradabad, Uttar Pradesh",
+    "fee":"16,00,000",
+    "link":"https:\/\/www.tmu.ac.in\/"
+  },
+  {
+    "rank":21,
+    "name":"Sri Devaraj Urs Medical College",
+    "location":"Kolar, Karnataka",
+    "fee":"17,00,000",
+    "link":"https:\/\/sdumc.ac.in\/"
+  },
+  {
+    "rank":22,
+    "name":"Yenepoya Medical College",
+    "location":"Mangalore, Karnataka",
+    "fee":"18,00,000",
+    "link":"https:\/\/ymc.yenepoya.edu.in\/"
+  },
+  {
+    "rank":23,
+    "name":"Vinayaka Missions Medical College",
+    "location":"Salem, Tamil Nadu",
+    "fee":"22,00,000",
+    "link":"https:\/\/vinayakamission.com\/"
+  },
+  {
+    "rank":24,
+    "name":"Subharti Medical College",
+    "location":"Meerut, Uttar Pradesh",
+    "fee":"20,00,000",
+    "link":"https:\/\/subharti.org\/"
+  },
+  {
+    "rank":25,
+    "name":"Rama Medical College",
+    "location":"Kanpur, Uttar Pradesh",
+    "fee":"18,00,000",
+    "link":"https:\/\/www.ramamedicalcolleges.com\/"
+  },
+  {
+    "rank":26,
+    "name":"Geetanjali Medical College",
+    "location":"Udaipur, Rajasthan",
+    "fee":"22,00,000",
+    "link":"https:\/\/www.geetanjaliuniversity.com\/"
+  },
+  {
+    "rank":27,
+    "name":"Manipal Tata Medical College",
+    "location":"Jamshedpur, Jharkhand",
+    "fee":"15,00,000",
+    "link":"https:\/\/manipal.edu\/mtmc.html"
+  },
+  {
+    "rank":28,
+    "name":"R.V. Institute of Medical Sciences",
+    "location":"Bangalore, Karnataka",
+    "fee":"19,00,000",
+    "link":"https:\/\/www.rvims.org\/"
+  },
+  {
+    "rank":29,
+    "name":"Narayana Medical College",
+    "location":"Nellore, Andhra Pradesh",
+    "fee":"17,00,000",
+    "link":"https:\/\/www.narayanamedicalcollege.com\/"
+  },
+  {
+    "rank":30,
+    "name":"Maharishi Markandeshwar Institute of Medical Sciences",
+    "location":"Ambala, Haryana",
+    "fee":"21,00,000",
+    "link":"https:\/\/www.mmumullana.org\/"
+  }
+]

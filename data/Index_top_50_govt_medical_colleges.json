@@ -1,0 +1,37 @@
+[
+  {
+    "rank": 1,
+    "name": "All India Institute of Medical Sciences (AIIMS)",
+    "location": "New Delhi",
+    "fees": "INR 1,628 per year",
+    "website": "https://www.aiims.edu/"
+  },
+  {
+    "rank": 2,
+    "name": "Post Graduate Institute of Medical Education and Research (PGIMER)",
+    "location": "Chandigarh",
+    "fees": "INR 6,000 per year",
+    "website": "https://pgimer.edu.in/"
+  },
+  {
+    "rank": 3,
+    "name": "Christian Medical College (CMC)",
+    "location": "Vellore, Tamil Nadu",
+    "fees": "INR 48,000 per year",
+    "website": "https://www.cmch-vellore.edu/"
+  },
+  {
+    "rank": 4,
+    "name": "Banaras Hindu University \u2013 Institute of Medical Sciences",
+    "location": "Varanasi, Uttar Pradesh",
+    "fees": "INR 15,000 per year",
+    "website": "https://www.bhu.ac.in/ims/"
+  },
+  {
+    "rank": 5,
+    "name": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)",
+    "location": "Puducherry",
+    "fees": "INR 4,970 per year",
+    "website": "https://jipmer.edu.in/"
+  }
+]

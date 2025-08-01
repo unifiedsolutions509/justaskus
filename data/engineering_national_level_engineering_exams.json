@@ -1,0 +1,65 @@
+[
+  {
+    "Exam Name": "JEE Main",
+    "Full Form": "Joint Entrance Examination Main",
+    "Purpose": "For admission to NITs, IIITs, GFTIs, and as a qualifier for JEE Advanced",
+    "Next Date": "2025-01-24",
+    "Link": "https://jeemain.nta.ac.in/"
+  },
+  {
+    "Exam Name": "JEE Advanced",
+    "Full Form": "Joint Entrance Examination Advanced",
+    "Purpose": "For admission to IITs",
+    "Next Date": "2025-05-18",
+    "Link": "https://jeeadv.ac.in/"
+  },
+  {
+    "Exam Name": "BITSAT",
+    "Full Form": "BITS Admission Test",
+    "Purpose": "For admission to BITS Pilani, Goa, Hyderabad",
+    "Next Date": "2025-05-22",
+    "Link": "https://www.bitsadmission.com/"
+  },
+  {
+    "Exam Name": "VITEEE",
+    "Full Form": "VIT Engineering Entrance Exam",
+    "Purpose": "For admission to VIT Vellore and other campuses",
+    "Next Date": "2025-04-19",
+    "Link": "https://viteee.vit.ac.in/"
+  },
+  {
+    "Exam Name": "SRMJEEE",
+    "Full Form": "SRM Joint Engineering Entrance Exam",
+    "Purpose": "For admission to SRM University",
+    "Next Date": "2025-04-20",
+    "Link": "https://www.srmist.edu.in/admission-india/"
+  },
+  {
+    "Exam Name": "MET",
+    "Full Form": "Manipal Entrance Test",
+    "Purpose": "For admission to Manipal Institute of Technology",
+    "Next Date": "2025-04-16",
+    "Link": "https://manipal.edu/mit.html"
+  },
+  {
+    "Exam Name": "CUSAT CAT",
+    "Full Form": "Cochin University of Science and Technology Common Admission Test",
+    "Purpose": "For engineering and other courses",
+    "Next Date": "2025-04-05",
+    "Link": "https://admissions.cusat.ac.in/"
+  },
+  {
+    "Exam Name": "IIITH UGEE/SAT",
+    "Full Form": "IIIT Hyderabad UG Entrance Exams",
+    "Purpose": "Through Olympiads, UGEE, and SAT Channel",
+    "Next Date": "2025-03-15",
+    "Link": "https://ugadmissions.iiit.ac.in/"
+  },
+  {
+    "Exam Name": "UPESEAT",
+    "Full Form": "UPES Engineering Aptitude Test",
+    "Purpose": "For admission to University of Petroleum and Energy Studies",
+    "Next Date": "2025-04-30",
+    "Link": "https://www.upes.ac.in/"
+  }
+]

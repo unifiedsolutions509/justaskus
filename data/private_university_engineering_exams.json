@@ -1,0 +1,100 @@
+[
+  {
+    "Exam":"BITSAT",
+    "University":"Birla Institute of Technology and Science (BITS)",
+    "Campuses":"Pilani, Goa, Hyderabad",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.bitsadmission.com"
+  },
+  {
+    "Exam":"VITEEE",
+    "University":"Vellore Institute of Technology",
+    "Campuses":"Vellore, Chennai, Bhopal, AP",
+    "Mode":"Online",
+    "Official Link":"https:\/\/viteee.vit.ac.in"
+  },
+  {
+    "Exam":"SRMJEEE",
+    "University":"SRM Institute of Science and Technology",
+    "Campuses":"Chennai, NCR, AP, Sikkim",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.srmist.edu.in\/admission-india"
+  },
+  {
+    "Exam":"MET",
+    "University":"Manipal Academy of Higher Education",
+    "Campuses":"Manipal, Jaipur",
+    "Mode":"Online",
+    "Official Link":"https:\/\/manipal.edu"
+  },
+  {
+    "Exam":"LPUNEST",
+    "University":"Lovely Professional University",
+    "Campuses":"Phagwara (Punjab)",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.lpu.in"
+  },
+  {
+    "Exam":"CUET",
+    "University":"Chandigarh University",
+    "Campuses":"Mohali",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.cucet.cuchd.in"
+  },
+  {
+    "Exam":"SUAT",
+    "University":"Sharda University",
+    "Campuses":"Greater Noida",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.sharda.ac.in"
+  },
+  {
+    "Exam":"UPES Dehradun \u2013 UPESEAT",
+    "University":"University of Petroleum and Energy Studies",
+    "Campuses":"Dehradun",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.upes.ac.in"
+  },
+  {
+    "Exam":"NIIT University Aptitude Test",
+    "University":"NIIT University",
+    "Campuses":"Neemrana (Rajasthan)",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.niituniversity.in"
+  },
+  {
+    "Exam":"IEMJEE",
+    "University":"Institute of Engineering and Management",
+    "Campuses":"Kolkata, Jaipur",
+    "Mode":"Online",
+    "Official Link":"https:\/\/uem.edu.in\/iemjee"
+  },
+  {
+    "Exam":"AEEE",
+    "University":"Amrita Vishwa Vidyapeetham",
+    "Campuses":"Amritapuri, Bengaluru, Coimbatore",
+    "Mode":"Online\/Offline",
+    "Official Link":"https:\/\/www.amrita.edu\/admissions\/btech"
+  },
+  {
+    "Exam":"Shiv Nadar University SNUSAT",
+    "University":"Shiv Nadar University",
+    "Campuses":"Greater Noida",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.snuchennai.edu.in"
+  },
+  {
+    "Exam":"Ashoka Aptitude Test",
+    "University":"Ashoka University",
+    "Campuses":"Sonipat",
+    "Mode":"Online",
+    "Official Link":"https:\/\/www.ashoka.edu.in"
+  },
+  {
+    "Exam":"Kalasalingam Entrance Exam",
+    "University":"Kalasalingam Academy of Research and Education",
+    "Campuses":"Virudhunagar (TN)",
+    "Mode":"Online",
+    "Official Link":"https:\/\/kalasalingam.ac.in"
+  }
+]

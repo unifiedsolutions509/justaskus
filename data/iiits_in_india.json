@@ -1,0 +1,146 @@
+[
+  {
+    "Rank":1,
+    "Name":"IIIT Hyderabad",
+    "Location":"Telangana",
+    "Website":"https:\/\/www.iiit.ac.in\/"
+  },
+  {
+    "Rank":2,
+    "Name":"IIIT Bangalore",
+    "Location":"Karnataka",
+    "Website":"https:\/\/www.iiitb.ac.in\/"
+  },
+  {
+    "Rank":3,
+    "Name":"IIIT Delhi (NSUT)",
+    "Location":"Delhi",
+    "Website":"https:\/\/www.iiitd.ac.in\/"
+  },
+  {
+    "Rank":4,
+    "Name":"IIIT Allahabad",
+    "Location":"Uttar Pradesh",
+    "Website":"https:\/\/www.iiita.ac.in\/"
+  },
+  {
+    "Rank":5,
+    "Name":"IIIT Gwalior (ABV-IIITM)",
+    "Location":"Madhya Pradesh",
+    "Website":"https:\/\/www.iiitm.ac.in\/"
+  },
+  {
+    "Rank":6,
+    "Name":"IIIT Jabalpur (IIITDM)",
+    "Location":"Madhya Pradesh",
+    "Website":"https:\/\/www.iiitdmj.ac.in\/"
+  },
+  {
+    "Rank":7,
+    "Name":"IIIT Kancheepuram (IIITDM)",
+    "Location":"Tamil Nadu",
+    "Website":"https:\/\/www.iiitdm.ac.in\/"
+  },
+  {
+    "Rank":8,
+    "Name":"IIIT Guwahati",
+    "Location":"Assam",
+    "Website":"https:\/\/www.iiitg.ac.in\/"
+  },
+  {
+    "Rank":9,
+    "Name":"IIIT Kota",
+    "Location":"Rajasthan",
+    "Website":"https:\/\/iiitkota.ac.in\/"
+  },
+  {
+    "Rank":10,
+    "Name":"IIIT Bhagalpur",
+    "Location":"Bihar",
+    "Website":"https:\/\/www.iiitbh.ac.in\/"
+  },
+  {
+    "Rank":11,
+    "Name":"IIIT Pune",
+    "Location":"Maharashtra",
+    "Website":"https:\/\/www.iiitp.ac.in\/"
+  },
+  {
+    "Rank":12,
+    "Name":"IIIT Sri City",
+    "Location":"Andhra Pradesh",
+    "Website":"https:\/\/www.iiits.ac.in\/"
+  },
+  {
+    "Rank":13,
+    "Name":"IIIT Vadodara",
+    "Location":"Gujarat",
+    "Website":"https:\/\/www.iiitvadodara.ac.in\/"
+  },
+  {
+    "Rank":14,
+    "Name":"IIIT Nagpur",
+    "Location":"Maharashtra",
+    "Website":"https:\/\/iiitn.ac.in\/"
+  },
+  {
+    "Rank":15,
+    "Name":"IIIT Ranchi",
+    "Location":"Jharkhand",
+    "Website":"https:\/\/iiitranchi.ac.in\/"
+  },
+  {
+    "Rank":16,
+    "Name":"IIIT Bhopal",
+    "Location":"Madhya Pradesh",
+    "Website":"https:\/\/iiitbhopal.ac.in\/"
+  },
+  {
+    "Rank":17,
+    "Name":"IIIT Una",
+    "Location":"Himachal Pradesh",
+    "Website":"https:\/\/iiitu.ac.in\/"
+  },
+  {
+    "Rank":18,
+    "Name":"IIIT Kottayam",
+    "Location":"Kerala",
+    "Website":"https:\/\/www.iiitkottayam.ac.in\/"
+  },
+  {
+    "Rank":19,
+    "Name":"IIIT Dharwad",
+    "Location":"Karnataka",
+    "Website":"https:\/\/iiitdwd.ac.in\/"
+  },
+  {
+    "Rank":20,
+    "Name":"IIIT Lucknow",
+    "Location":"Uttar Pradesh",
+    "Website":"https:\/\/iiitl.ac.in\/"
+  },
+  {
+    "Rank":21,
+    "Name":"IIIT Tiruchirappalli",
+    "Location":"Tamil Nadu",
+    "Website":"https:\/\/www.iiitt.ac.in\/"
+  },
+  {
+    "Rank":22,
+    "Name":"IIIT Manipur",
+    "Location":"Manipur",
+    "Website":"https:\/\/www.iiitmanipur.ac.in\/"
+  },
+  {
+    "Rank":23,
+    "Name":"IIIT Agartala",
+    "Location":"Tripura",
+    "Website":"https:\/\/www.iiitagartala.ac.in\/"
+  },
+  {
+    "Rank":24,
+    "Name":"IIIT Surat",
+    "Location":"Gujarat",
+    "Website":"https:\/\/www.iiitsurat.ac.in\/"
+  }
+]

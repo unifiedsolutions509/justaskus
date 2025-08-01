@@ -1,0 +1,114 @@
+{
+  "streamTitle": "Arts, Media & Design",
+  "streamDesc": "Creative fields that blend culture, communication, and innovation",
+  "domains": [
+    {
+      "id": "design",
+      "name": "Design & Applied Arts",
+      "courses": [
+        "B.Des",
+        "Diploma in Applied Arts",
+        "M.Des"
+      ],
+      "careers": [
+        "Product Designer",
+        "UI/UX Designer",
+        "Industrial Designer"
+      ],
+      "resources": [
+        { "name": "NID Ahmedabad", "url": "https://www.nid.edu/" },
+        { "name": "MIT Institute of Design", "url": "https://www.mitid.edu.in/" }
+      ]
+    },
+    {
+      "id": "media",
+      "name": "Media & Communication",
+      "courses": [
+        "BA in Journalism",
+        "Mass Communication",
+        "MA in Media Studies"
+      ],
+      "careers": [
+        "Journalist",
+        "TV Anchor",
+        "Public Relations Executive"
+      ],
+      "resources": [
+        { "name": "IIMC Delhi", "url": "https://iimc.nic.in/" },
+        { "name": "XIC Mumbai", "url": "https://www.xaviercomm.org/" }
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion Design",
+      "courses": [
+        "B.Des Fashion Design",
+        "Diploma in Fashion Technology",
+        "M.Des Fashion"
+      ],
+      "careers": [
+        "Fashion Designer",
+        "Stylist",
+        "Merchandiser"
+      ],
+      "resources": [
+        { "name": "NIFT Delhi", "url": "https://www.nift.ac.in/" },
+        { "name": "Pearl Academy", "url": "https://pearlacademy.com/" }
+      ]
+    },
+    {
+      "id": "animation",
+      "name": "Animation & Game Design",
+      "courses": [
+        "B.Sc Animation",
+        "Game Art Design Diploma",
+        "VFX Courses"
+      ],
+      "careers": [
+        "Animator",
+        "Game Designer",
+        "3D Artist"
+      ],
+      "resources": [
+        { "name": "Arena Animation", "url": "https://www.arena-multimedia.com/" },
+        { "name": "MAAC", "url": "https://www.maacindia.com/" }
+      ]
+    },
+    {
+      "id": "performing",
+      "name": "Performing Arts",
+      "courses": [
+        "BA in Dance",
+        "BA in Theatre Arts",
+        "Diploma in Acting"
+      ],
+      "careers": [
+        "Actor",
+        "Dancer",
+        "Theatre Director"
+      ],
+      "resources": [
+        { "name": "NSD Delhi", "url": "http://nsd.gov.in/" },
+        { "name": "FTII Pune", "url": "https://www.ftii.ac.in/" }
+      ]
+    },
+    {
+      "id": "visual",
+      "name": "Visual Arts",
+      "courses": [
+        "BFA",
+        "Diploma in Fine Arts",
+        "MFA"
+      ],
+      "careers": [
+        "Painter",
+        "Illustrator",
+        "Art Director"
+      ],
+      "resources": [
+        { "name": "Kala Bhavan (Visva-Bharati)", "url": "https://www.visvabharati.ac.in/" },
+        { "name": "Sir JJ School of Art", "url": "https://www.sirjjschoolofart.in/" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "College":"IIIT Delhi",
+    "Type":"Government",
+    "Admission Mode":"JEE Main + Bonus for Olympiad\/Other Achievements",
+    "Location":"Delhi",
+    "Website":"https:\/\/www.iiitd.ac.in\/"
+  },
+  {
+    "College":"DAIICT",
+    "Type":"Private",
+    "Admission Mode":"GUJCET \/ JEE Main",
+    "Location":"Gujarat",
+    "Website":"https:\/\/www.daiict.ac.in\/"
+  },
+  {
+    "College":"IIIT Bhubaneswar",
+    "Type":"Government",
+    "Admission Mode":"JEE Main",
+    "Location":"Odisha",
+    "Website":"https:\/\/www.iiit-bh.ac.in\/"
+  },
+  {
+    "College":"NSUT",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JAC Delhi",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.nsut.ac.in\/"
+  },
+  {
+    "College":"DTU",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JAC Delhi",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.dtu.ac.in\/"
+  },
+  {
+    "College":"IGDTUW",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JAC Delhi",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.igdtuw.ac.in\/"
+  },
+  {
+    "College":"HBTU Kanpur",
+    "Type":"Government",
+    "Admission Mode":"JEE Main",
+    "Location":"Uttar Pradesh",
+    "Website":"https:\/\/hbtu.ac.in\/"
+  },
+  {
+    "College":"Shiv Nadar University",
+    "Type":"Private",
+    "Admission Mode":"SNUSAT + JEE Main",
+    "Location":"Uttar Pradesh",
+    "Website":"https:\/\/www.snu.edu.in\/"
+  },
+  {
+    "College":"Ashoka University",
+    "Type":"Private",
+    "Admission Mode":"Ashoka Aptitude Test + JEE (optional)",
+    "Location":"Haryana",
+    "Website":"https:\/\/www.ashoka.edu.in\/"
+  },
+  {
+    "College":"LNMIIT Jaipur",
+    "Type":"Private",
+    "Admission Mode":"JEE Main \/ Direct",
+    "Location":"Rajasthan",
+    "Website":"https:\/\/www.lnmiit.ac.in\/"
+  },
+  {
+    "College":"IIIT Hyderabad",
+    "Type":"Private",
+    "Admission Mode":"JEE Main \/ UGEE \/ Olympiads",
+    "Location":"Telangana",
+    "Website":"https:\/\/www.iiit.ac.in\/"
+  },
+  {
+    "College":"IIIT Bangalore",
+    "Type":"Private",
+    "Admission Mode":"JEE Main",
+    "Location":"Karnataka",
+    "Website":"https:\/\/www.iiitb.ac.in\/"
+  },
+  {
+    "College":"IIIT Guwahati",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JoSAA",
+    "Location":"Assam",
+    "Website":"https:\/\/www.iiitg.ac.in\/"
+  },
+  {
+    "College":"IIIT Pune",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JoSAA",
+    "Location":"Maharashtra",
+    "Website":"https:\/\/www.iiitp.ac.in\/"
+  },
+  {
+    "College":"IIITDM Kancheepuram",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JoSAA",
+    "Location":"Tamil Nadu",
+    "Website":"https:\/\/www.iiitdm.ac.in\/"
+  },
+  {
+    "College":"IIIT Vadodara",
+    "Type":"Government",
+    "Admission Mode":"JEE Main via JoSAA",
+    "Location":"Gujarat",
+    "Website":"https:\/\/iiitvadodara.ac.in\/"
+  }
+]

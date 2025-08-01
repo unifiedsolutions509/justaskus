@@ -1,0 +1,107 @@
+[
+  {
+    "rank": 1,
+    "name": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+    "location": "New Delhi",
+    "fees_per_year": "\u20b91,628",
+    "link": "https://www.aiims.edu"
+  },
+  {
+    "rank": 2,
+    "name": "Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh",
+    "location": "Chandigarh",
+    "fees_per_year": "\u20b92,425",
+    "link": "https://pgimer.edu.in"
+  },
+  {
+    "rank": 3,
+    "name": "Christian Medical College (CMC), Vellore",
+    "location": "Tamil Nadu",
+    "fees_per_year": "\u20b93,000",
+    "link": "https://www.cmch-vellore.edu/"
+  },
+  {
+    "rank": 4,
+    "name": "King George's Medical University (KGMU), Lucknow",
+    "location": "Uttar Pradesh",
+    "fees_per_year": "\u20b954,900",
+    "link": "https://www.kgmu.org/"
+  },
+  {
+    "rank": 5,
+    "name": "JIPMER, Puducherry",
+    "location": "Puducherry",
+    "fees_per_year": "\u20b94,970",
+    "link": "https://www.jipmer.edu.in"
+  },
+  {
+    "rank": 6,
+    "name": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)",
+    "location": "Puducherry",
+    "fees": "\u20b934,290 per year",
+    "official_website": "https://jipmer.edu.in/"
+  },
+  {
+    "rank": 7,
+    "name": "Banaras Hindu University - Institute of Medical Sciences (BHU-IMS)",
+    "location": "Varanasi, Uttar Pradesh",
+    "fees": "\u20b914,000 per year",
+    "official_website": "https://www.bhu.ac.in/ims/"
+  },
+  {
+    "rank": 8,
+    "name": "King George's Medical University (KGMU)",
+    "location": "Lucknow, Uttar Pradesh",
+    "fees": "\u20b954,900 per year",
+    "official_website": "https://www.kgmu.org/"
+  },
+  {
+    "rank": 9,
+    "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS)",
+    "location": "Lucknow, Uttar Pradesh",
+    "fees": "\u20b947,000 per year",
+    "official_website": "https://www.sgpgi.ac.in/"
+  },
+  {
+    "rank": 10,
+    "name": "Institute of Post Graduate Medical Education and Research (IPGMER)",
+    "location": "Kolkata, West Bengal",
+    "fees": "\u20b911,000 per year",
+    "official_website": "https://www.ipgmer.gov.in/"
+  },
+  {
+    "rank": 11,
+    "name": "Institute of Liver and Biliary Sciences (ILBS), New Delhi",
+    "location": "New Delhi",
+    "fees_per_year": "\u20b91,00,000 (Approx.)",
+    "official_website": "https://www.ilbs.in/"
+  },
+  {
+    "rank": 12,
+    "name": "Bangalore Medical College and Research Institute (BMCRI), Bangalore",
+    "location": "Bangalore, Karnataka",
+    "fees_per_year": "\u20b960,000 (Approx.)",
+    "official_website": "http://bmcri.org/"
+  },
+  {
+    "rank": 13,
+    "name": "Maulana Azad Medical College (MAMC), New Delhi",
+    "location": "New Delhi",
+    "fees_per_year": "\u20b92,500",
+    "official_website": "http://www.mamc.ac.in/"
+  },
+  {
+    "rank": 14,
+    "name": "Government Medical College, Kozhikode",
+    "location": "Kozhikode, Kerala",
+    "fees_per_year": "\u20b925,000 (Approx.)",
+    "official_website": "https://www.govtmedicalcollegekozhikode.ac.in/"
+  },
+  {
+    "rank": 15,
+    "name": "Government Medical College and Hospital, Chandigarh",
+    "location": "Chandigarh",
+    "fees_per_year": "\u20b924,000 (Approx.)",
+    "official_website": "http://gmch.gov.in/"
+  }
+]

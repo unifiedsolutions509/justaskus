@@ -1,0 +1,32 @@
+[
+  {
+    "Exam Name":"IIST Admission Test (ISAT)",
+    "Stream\/Field":"Space Science & Technology",
+    "Conducted By":"Indian Institute of Space Science and Technology",
+    "Website":"https:\/\/www.iist.ac.in\/admissions"
+  },
+  {
+    "Exam Name":"IISER Aptitude Test (IAT)",
+    "Stream\/Field":"Pure Sciences \/ Research",
+    "Conducted By":"Indian Institutes of Science Education and Research (IISERs)",
+    "Website":"https:\/\/www.iiseradmission.in\/"
+  },
+  {
+    "Exam Name":"ICAR AIEEA UG",
+    "Stream\/Field":"Agricultural Engineering",
+    "Conducted By":"National Testing Agency (NTA)",
+    "Website":"https:\/\/icar.nta.nic.in\/"
+  },
+  {
+    "Exam Name":"NATA",
+    "Stream\/Field":"Architecture",
+    "Conducted By":"Council of Architecture (COA)",
+    "Website":"https:\/\/www.nata.in\/"
+  },
+  {
+    "Exam Name":"UCEED",
+    "Stream\/Field":"Design",
+    "Conducted By":"IIT Bombay",
+    "Website":"https:\/\/www.uceed.iitb.ac.in\/"
+  }
+]

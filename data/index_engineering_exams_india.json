@@ -1,0 +1,67 @@
+[
+  {
+    "name": "JEE Main",
+    "description": "For NITs, IIITs, GFTIs",
+    "link": "https://jeemain.nta.nic.in/"
+  },
+  {
+    "name": "JEE Advanced",
+    "description": "For IITs",
+    "link": "https://jeeadv.ac.in/"
+  },
+  {
+    "name": "CUET UG",
+    "description": "For Central Universities",
+    "link": "https://cuet.samarth.ac.in/"
+  },
+  {
+    "name": "BITSAT",
+    "description": "For BITS Campuses",
+    "link": "https://www.bitsadmission.com/"
+  },
+  {
+    "name": "VITEEE",
+    "description": "For VIT Vellore & Others",
+    "link": "https://viteee.vit.ac.in/"
+  },
+  {
+    "name": "SRMJEEE",
+    "description": "For SRM University",
+    "link": "https://applications.srmist.edu.in/btech"
+  },
+  {
+    "name": "MET",
+    "description": "Manipal Entrance Test",
+    "link": "https://manipal.edu/"
+  },
+  {
+    "name": "COMEDK",
+    "description": "Private Colleges (Karnataka)",
+    "link": "https://www.comedk.org/"
+  },
+  {
+    "name": "WBJEE",
+    "description": "West Bengal Colleges",
+    "link": "https://wbjeeb.nic.in/"
+  },
+  {
+    "name": "MHT CET",
+    "description": "Maharashtra State",
+    "link": "https://cetcell.mahacet.org/"
+  },
+  {
+    "name": "KCET",
+    "description": "Karnataka State",
+    "link": "https://cetonline.karnataka.gov.in/kea/"
+  },
+  {
+    "name": "TNEA",
+    "description": "Tamil Nadu (No Exam)",
+    "link": "https://www.tneaonline.org/"
+  },
+  {
+    "name": "UPSEE (CUET)",
+    "description": "For UP Engineering",
+    "link": "https://upcet.admissions.nic.in/"
+  }
+]

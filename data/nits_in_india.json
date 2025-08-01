@@ -1,0 +1,188 @@
+[
+  {
+    "Rank": 1,
+    "Name": "NIT Trichy",
+    "Location": "Tamil Nadu",
+    "Website": "https://www.nitt.edu/"
+  },
+  {
+    "Rank": 2,
+    "Name": "NIT Surathkal",
+    "Location": "Karnataka",
+    "Website": "https://www.nitk.ac.in/"
+  },
+  {
+    "Rank": 3,
+    "Name": "NIT Rourkela",
+    "Location": "Odisha",
+    "Website": "https://www.nitrkl.ac.in/"
+  },
+  {
+    "Rank": 4,
+    "Name": "NIT Warangal",
+    "Location": "Telangana",
+    "Website": "https://www.nitw.ac.in/"
+  },
+  {
+    "Rank": 5,
+    "Name": "NIT Calicut",
+    "Location": "Kerala",
+    "Website": "https://www.nitc.ac.in/"
+  },
+  {
+    "Rank": 6,
+    "Name": "NIT Durgapur",
+    "Location": "West Bengal",
+    "Website": "https://www.nitdgp.ac.in/"
+  },
+  {
+    "Rank": 7,
+    "Name": "NIT Silchar",
+    "Location": "Assam",
+    "Website": "https://www.nits.ac.in/"
+  },
+  {
+    "Rank": 8,
+    "Name": "MNIT Jaipur",
+    "Location": "Rajasthan",
+    "Website": "https://www.mnit.ac.in/"
+  },
+  {
+    "Rank": 9,
+    "Name": "VNIT Nagpur",
+    "Location": "Maharashtra",
+    "Website": "https://vnit.ac.in/"
+  },
+  {
+    "Rank": 10,
+    "Name": "NIT Kurukshetra",
+    "Location": "Haryana",
+    "Website": "https://www.nitkkr.ac.in/"
+  },
+  {
+    "Rank": 11,
+    "Name": "NIT Srinagar",
+    "Location": "Jammu and Kashmir",
+    "Website": "https://nitsri.ac.in/"
+  },
+  {
+    "Rank": 12,
+    "Name": "NIT Jalandhar",
+    "Location": "Punjab",
+    "Website": "https://www.nitj.ac.in/"
+  },
+  {
+    "Rank": 13,
+    "Name": "NIT Raipur",
+    "Location": "Chhattisgarh",
+    "Website": "https://www.nitrr.ac.in/"
+  },
+  {
+    "Rank": 14,
+    "Name": "NIT Hamirpur",
+    "Location": "Himachal Pradesh",
+    "Website": "https://nith.ac.in/"
+  },
+  {
+    "Rank": 15,
+    "Name": "NIT Patna",
+    "Location": "Bihar",
+    "Website": "https://www.nitp.ac.in/"
+  },
+  {
+    "Rank": 16,
+    "Name": "NIT Goa",
+    "Location": "Goa",
+    "Website": "https://www.nitgoa.ac.in/"
+  },
+  {
+    "Rank": 17,
+    "Name": "NIT Meghalaya",
+    "Location": "Meghalaya",
+    "Website": "https://www.nitm.ac.in/"
+  },
+  {
+    "Rank": 18,
+    "Name": "NIT Arunachal Pradesh",
+    "Location": "Arunachal Pradesh",
+    "Website": "https://www.nitap.ac.in/"
+  },
+  {
+    "Rank": 19,
+    "Name": "NIT Manipur",
+    "Location": "Manipur",
+    "Website": "https://www.nitmanipur.ac.in/"
+  },
+  {
+    "Rank": 20,
+    "Name": "NIT Mizoram",
+    "Location": "Mizoram",
+    "Website": "https://www.nitmz.ac.in/"
+  },
+  {
+    "Rank": 21,
+    "Name": "NIT Nagaland",
+    "Location": "Nagaland",
+    "Website": "https://nitnagaland.ac.in/"
+  },
+  {
+    "Rank": 22,
+    "Name": "NIT Sikkim",
+    "Location": "Sikkim",
+    "Website": "https://nitsikkim.ac.in/"
+  },
+  {
+    "Rank": 23,
+    "Name": "NIT Puducherry",
+    "Location": "Puducherry",
+    "Website": "https://www.nitpy.ac.in/"
+  },
+  {
+    "Rank": 24,
+    "Name": "NIT Uttarakhand",
+    "Location": "Uttarakhand",
+    "Website": "https://www.nituk.ac.in/"
+  },
+  {
+    "Rank": 25,
+    "Name": "NIT Agartala",
+    "Location": "Tripura",
+    "Website": "https://www.nita.ac.in/"
+  },
+  {
+    "Rank": 26,
+    "Name": "NIT Delhi",
+    "Location": "Delhi",
+    "Website": "https://nitdelhi.ac.in/"
+  },
+  {
+    "Rank": 27,
+    "Name": "NIT Andhra Pradesh",
+    "Location": "Andhra Pradesh",
+    "Website": "https://www.nitandhra.ac.in/"
+  },
+  {
+    "Rank": 28,
+    "Name": "NIT Bhopal (MANIT)",
+    "Location": "Madhya Pradesh",
+    "Website": "https://www.manit.ac.in/"
+  },
+  {
+    "Rank": 29,
+    "Name": "NIT Jamshedpur",
+    "Location": "Jharkhand",
+    "Website": "https://www.nitjsr.ac.in/"
+  },
+  {
+    "Rank": 30,
+    "Name": "NIT Jaipur (MNIT)",
+    "Location": "Rajasthan",
+    "Website": "https://www.mnit.ac.in/"
+  },
+  {
+    "Rank": 31,
+    "Name": "NIT Allahabad (MNNIT)",
+    "Location": "Uttar Pradesh",
+    "Website": "https://www.mnnit.ac.in/"
+  }
+]

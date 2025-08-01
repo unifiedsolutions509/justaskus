@@ -1,0 +1,38 @@
+[
+  {
+    "field": "Nuclear Engineering",
+    "link": "https://www.aec.gov.in/education/nuclear_engineering.html"
+  },
+  {
+    "field": "Plastics Engineering",
+    "link": "https://www.cipet.gov.in/"
+  },
+  {
+    "field": "Leather Technology",
+    "link": "https://www.clri.org/"
+  },
+  {
+    "field": "Ceramic Engineering",
+    "link": "https://iitbhu.ac.in/dept/cer"
+  },
+  {
+    "field": "Marine Electronics",
+    "link": "https://www.imu.edu.in/"
+  },
+  {
+    "field": "Fire & Safety Engineering",
+    "link": "https://www.nfsu.ac.in/"
+  },
+  {
+    "field": "Oil & Gas Informatics",
+    "link": "https://www.upes.ac.in/"
+  },
+  {
+    "field": "Supply Chain Engineering",
+    "link": "https://www.nitie.ac.in/"
+  },
+  {
+    "field": "Petrochemicals Engineering",
+    "link": "https://www.rgipt.ac.in/"
+  }
+]

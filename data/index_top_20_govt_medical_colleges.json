@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "name": "AIIMS Delhi",
+    "location": "New Delhi",
+    "fees": "\u20b91,628/year",
+    "website": "https://www.aiims.edu/"
+  },
+  {
+    "rank": 2,
+    "name": "PGIMER Chandigarh",
+    "location": "Chandigarh",
+    "fees": "\u20b96,000/year",
+    "website": "https://pgimer.edu.in/"
+  },
+  {
+    "rank": 3,
+    "name": "CMC Vellore (Govt Quota)",
+    "location": "Vellore, Tamil Nadu",
+    "fees": "\u20b940,000/year",
+    "website": "https://www.cmch-vellore.edu/"
+  },
+  {
+    "rank": 4,
+    "name": "AFMC Pune",
+    "location": "Pune, Maharashtra",
+    "fees": "\u20b931,570/year",
+    "website": "https://www.afmc.nic.in/"
+  },
+  {
+    "rank": 5,
+    "name": "JIPMER Puducherry",
+    "location": "Puducherry",
+    "fees": "\u20b95,000/year",
+    "website": "https://www.jipmer.edu.in/"
+  },
+  {
+    "rank": 6,
+    "name": "MAMC",
+    "location": "Delhi",
+    "fees": "\u20b92,445/year",
+    "website": "https://www.mamc.ac.in/"
+  },
+  {
+    "rank": 7,
+    "name": "KGMU",
+    "location": "Lucknow, Uttar Pradesh",
+    "fees": "\u20b954,000/year",
+    "website": "https://www.kgmu.org/"
+  },
+  {
+    "rank": 8,
+    "name": "IMS BHU",
+    "location": "Varanasi, Uttar Pradesh",
+    "fees": "\u20b915,000/year",
+    "website": "https://www.bhu.ac.in/"
+  },
+  {
+    "rank": 9,
+    "name": "SMS Medical College",
+    "location": "Jaipur, Rajasthan",
+    "fees": "\u20b929,000/year",
+    "website": "https://education.rajasthan.gov.in/smsmcjaipur"
+  },
+  {
+    "rank": 10,
+    "name": "Bangalore Medical College",
+    "location": "Bengaluru, Karnataka",
+    "fees": "\u20b960,000/year",
+    "website": "https://bmcribengaluru.karnataka.gov.in/"
+  },
+  {
+    "rank": 11,
+    "name": "GMC Mumbai (JJ Hospital)",
+    "location": "Mumbai, Maharashtra",
+    "fees": "\u20b975,000/year",
+    "website": "https://ggmcjjh.com/"
+  },
+  {
+    "rank": 12,
+    "name": "Stanley Medical College",
+    "location": "Chennai, Tamil Nadu",
+    "fees": "\u20b913,610/year",
+    "website": "https://stanmed.org/"
+  },
+  {
+    "rank": 13,
+    "name": "Madras Medical College",
+    "location": "Chennai, Tamil Nadu",
+    "fees": "\u20b913,610/year",
+    "website": "https://www.mmc.ac.in/"
+  },
+  {
+    "rank": 14,
+    "name": "SCB Medical College",
+    "location": "Cuttack, Odisha",
+    "fees": "\u20b930,000/year",
+    "website": "https://scbmch.nic.in/"
+  },
+  {
+    "rank": 15,
+    "name": "Government Medical College Kozhikode",
+    "location": "Kerala",
+    "fees": "\u20b922,000/year",
+    "website": "http://calicutmedicalcollege.ac.in/"
+  },
+  {
+    "rank": 16,
+    "name": "Osmania Medical College",
+    "location": "Hyderabad, Telangana",
+    "fees": "\u20b910,000/year",
+    "website": "https://osmaniamedicalcollege.org/"
+  },
+  {
+    "rank": 17,
+    "name": "Guntur Medical College",
+    "location": "Guntur, Andhra Pradesh",
+    "fees": "\u20b916,000/year",
+    "website": "https://gunturmedicalcollege.edu.in/"
+  },
+  {
+    "rank": 18,
+    "name": "GMC Thiruvananthapuram",
+    "location": "Kerala",
+    "fees": "\u20b923,000/year",
+    "website": "https://tmc.kerala.gov.in/"
+  },
+  {
+    "rank": 19,
+    "name": "RIMS Ranchi",
+    "location": "Jharkhand",
+    "fees": "\u20b918,000/year",
+    "website": "https://www.rimsranchi.ac.in/"
+  },
+  {
+    "rank": 20,
+    "name": "Patna Medical College",
+    "location": "Patna, Bihar",
+    "fees": "\u20b922,000/year",
+    "website": "http://pmch.in/"
+  }
+]

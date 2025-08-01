@@ -1,0 +1,44 @@
+[
+  {
+    "College":"IIIT Delhi",
+    "Admission Mode":"JEE Main + Bonus for Olympiad\/Other Achievements",
+    "Location":"Delhi",
+    "Website":"https:\/\/www.iiitd.ac.in\/"
+  },
+  {
+    "College":"DAIICT",
+    "Admission Mode":"GUJCET \/ JEE Main",
+    "Location":"Gujarat",
+    "Website":"https:\/\/www.daiict.ac.in\/"
+  },
+  {
+    "College":"IIIT Bhubaneswar",
+    "Admission Mode":"JEE Main",
+    "Location":"Odisha",
+    "Website":"https:\/\/www.iiit-bh.ac.in\/"
+  },
+  {
+    "College":"NSUT",
+    "Admission Mode":"JEE Main via JAC Delhi",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.nsut.ac.in\/"
+  },
+  {
+    "College":"DTU",
+    "Admission Mode":"JEE Main via JAC Delhi",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.dtu.ac.in\/"
+  },
+  {
+    "College":"IGDTUW",
+    "Admission Mode":"JEE Main via JAC Delhi",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.igdtuw.ac.in\/"
+  },
+  {
+    "College":"HBTU Kanpur",
+    "Admission Mode":"JEE Main",
+    "Location":"Uttar Pradesh",
+    "Website":"https:\/\/hbtu.ac.in\/"
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "businessCommerce": {
+    "streamTitle": "Business & Commerce",
+    "streamDesc": "For finance, entrepreneurship, and organizational roles",
+    "domains": [
+      {
+        "id": "accounting",
+        "name": "Accounting & Finance",
+        "courses": [
+          "B.Com (Hons.)",
+          "CA / CMA / CS",
+          "CFA / CFP",
+          "M.Com / MBA (Finance)"
+        ],
+        "careers": [
+          "Chartered Accountant",
+          "Investment Banker",
+          "Financial Analyst",
+          "Auditor / Tax Consultant"
+        ],
+        "resources": [
+          { "name": "ICAI", "url": "https://www.icai.org/" },
+          { "name": "CFA Institute", "url": "https://www.cfainstitute.org/" }
+        ]
+      },
+      {
+        "id": "management",
+        "name": "Business Management",
+        "courses": [
+          "BBA / BBM / BMS",
+          "MBA / PGDM",
+          "Leadership & Strategy Certifications"
+        ],
+        "careers": [
+          "Operations Manager",
+          "HR / Admin Head",
+          "Strategy Consultant"
+        ],
+        "resources": [
+          { "name": "IIM Ahmedabad", "url": "https://www.iima.ac.in/" }
+        ]
+      },
+      {
+        "id": "economics",
+        "name": "Economics",
+        "courses": [
+          "BA / B.Sc. (Economics)",
+          "MA Economics",
+          "PG Diploma in Data & Policy"
+        ],
+        "careers": [
+          "Economist",
+          "Policy Analyst",
+          "Market Researcher",
+          "Economic Advisor"
+        ],
+        "resources": [
+          { "name": "Delhi School of Economics", "url": "http://econdse.org/" }
+        ]
+      },
+      {
+        "id": "marketing",
+        "name": "Marketing & Advertising",
+        "courses": [
+          "BBA / BMS (Marketing)",
+          "MBA in Marketing",
+          "Digital Marketing Certifications"
+        ],
+        "careers": [
+          "Brand Manager",
+          "Content Strategist",
+          "SEO / SEM Specialist",
+          "Ad Campaign Manager"
+        ],
+        "resources": [
+          { "name": "IIDE Digital Marketing", "url": "https://iide.co/" }
+        ]
+      },
+      {
+        "id": "hospitality",
+        "name": "Hospitality & Tourism",
+        "courses": [
+          "BHM / BTTM",
+          "MBA in Hospitality",
+          "Hotel & Event Management Diplomas"
+        ],
+        "careers": [
+          "Hotel Manager",
+          "Travel Consultant",
+          "Event Manager"
+        ],
+        "resources": [
+          { "name": "IHM Pusa", "url": "https://ihmpusa.net/" }
+        ]
+      },
+      {
+        "id": "international",
+        "name": "International Business",
+        "courses": [
+          "BIB (International Business)",
+          "MBA in International Business",
+          "Diploma in Export & Import"
+        ],
+        "careers": [
+          "Export Manager",
+          "Global Trade Analyst",
+          "Foreign Relations Executive"
+        ],
+        "resources": [
+          { "name": "IIFT Delhi", "url": "https://www.iift.ac.in/" }
+        ]
+      },
+      {
+        "id": "retail",
+        "name": "Retail & E-commerce",
+        "courses": [
+          "BBA in Retail Management",
+          "MBA in E-commerce / Retail",
+          "Diploma in Online Business"
+        ],
+        "careers": [
+          "Retail Store Manager",
+          "E-commerce Executive",
+          "Category Manager"
+        ],
+        "resources": [
+          { "name": "Retailers Association of India", "url": "https://www.rai.net.in/" }
+        ]
+      }
+    ]
+  }
+}

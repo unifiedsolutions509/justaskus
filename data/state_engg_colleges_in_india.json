@@ -1,0 +1,92 @@
+[
+  {
+    "Rank":1,
+    "Name":"Institute of Chemical Technology (ICT)",
+    "Location":"Mumbai, Maharashtra",
+    "Website":"https:\/\/www.ictmumbai.edu.in\/"
+  },
+  {
+    "Rank":2,
+    "Name":"College of Engineering Pune (COEP)",
+    "Location":"Pune, Maharashtra",
+    "Website":"https:\/\/www.coep.org.in\/"
+  },
+  {
+    "Rank":3,
+    "Name":"Jadavpur University",
+    "Location":"Kolkata, West Bengal",
+    "Website":"http:\/\/www.jaduniv.edu.in\/"
+  },
+  {
+    "Rank":4,
+    "Name":"Anna University (CEG Campus)",
+    "Location":"Chennai, Tamil Nadu",
+    "Website":"https:\/\/www.annauniv.edu\/"
+  },
+  {
+    "Rank":5,
+    "Name":"Delhi Technological University (DTU)",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.dtu.ac.in\/"
+  },
+  {
+    "Rank":6,
+    "Name":"Jamia Millia Islamia (Faculty of Engineering & Technology)",
+    "Location":"Delhi",
+    "Website":"https:\/\/www.jmi.ac.in\/"
+  },
+  {
+    "Rank":7,
+    "Name":"Netaji Subhas University of Technology (NSUT)",
+    "Location":"Delhi",
+    "Website":"http:\/\/www.nsut.ac.in\/"
+  },
+  {
+    "Rank":8,
+    "Name":"Punjab Engineering College (PEC)",
+    "Location":"Chandigarh",
+    "Website":"https:\/\/pec.ac.in\/"
+  },
+  {
+    "Rank":9,
+    "Name":"Bengal Engineering and Science University (IIEST Shibpur)",
+    "Location":"Howrah, West Bengal",
+    "Website":"https:\/\/www.iiests.ac.in\/"
+  },
+  {
+    "Rank":10,
+    "Name":"University of Hyderabad (School of Engineering Sciences and Technology)",
+    "Location":"Hyderabad, Telangana",
+    "Website":"https:\/\/uohyd.ac.in\/"
+  },
+  {
+    "Rank":11,
+    "Name":"Mumbai University (UDCT, VJTI)",
+    "Location":"Mumbai, Maharashtra",
+    "Website":"https:\/\/mu.ac.in\/"
+  },
+  {
+    "Rank":12,
+    "Name":"BMS College of Engineering (Autonomous under VTU)",
+    "Location":"Bengaluru, Karnataka",
+    "Website":"https:\/\/www.bmsce.ac.in\/"
+  },
+  {
+    "Rank":13,
+    "Name":"Osmania University College of Engineering",
+    "Location":"Hyderabad, Telangana",
+    "Website":"https:\/\/www.uceou.edu\/"
+  },
+  {
+    "Rank":14,
+    "Name":"University Institute of Engineering and Technology (UIET), Panjab University",
+    "Location":"Chandigarh",
+    "Website":"https:\/\/uiet.puchd.ac.in\/"
+  },
+  {
+    "Rank":15,
+    "Name":"College of Engineering Trivandrum (CET)",
+    "Location":"Thiruvananthapuram, Kerala",
+    "Website":"https:\/\/www.cet.ac.in\/"
+  }
+]
